@@ -11,12 +11,12 @@ Type "npm start" to start the localhost server on port 3000
 
 # Layout of the UI
 
-*)You will see 4 counters for adding the batteries. For each batch of 4 batteries, a transformer will be added. 
-*)If you press the calculate button, then the required landsize, cost and energy demands will be calculated.
-*)When you add a new battery to the grid, the landscape below the calculate button will show a new grid of a specific size and it is depicted by the battery name
-*)You can only add batteries which fit the total grid size. The total grid size is constant which is 400 px * 400 px.
-*)The battery sizes are scaled down to fit in the above mentioned grid dimensions.
-*) If you try to add batteries which exceed the total grid area, you ll get a modal stating that you cannot add any more batteries.
+1)You will see 4 counters for adding the batteries. For each batch of 4 batteries, a transformer will be added. 
+2)If you press the calculate button, then the required landsize, cost and energy demands will be calculated.
+3)When you add a new battery to the grid, the landscape below the calculate button will show a new grid of a specific size and it is depicted by the battery name
+4)You can only add batteries which fit the total grid size. The total grid size is constant which is 400 px * 400 px.
+5)The battery sizes are scaled down to fit in the above mentioned grid dimensions.
+6)If you try to add batteries which exceed the total grid area, you ll get a modal stating that you cannot add any more batteries.
 
 # Screenshots of the working UI
 
