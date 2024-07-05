@@ -1,6 +1,6 @@
 # How to install the dependencies on the project
 
-Clone the repository and type "npm install" in the terminal.
+Clone the repository from the MASTER branch and type "npm install" in the terminal.
 A node_modules folder will be created for all the required dependencies
 
 # How to start the project
