@@ -1,0 +1,8 @@
+.land {
+    width: 400px; /* Represents the full width of land, adjust based on your UI */
+    height: 400px; /* Fixed height of land */
+    position: relative;
+    background-color: #e4e4e4;
+    border: 2px solid black; 
+    margin-top: 20px;
+  }
